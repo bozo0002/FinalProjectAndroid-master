@@ -1,0 +1,5 @@
+<root>
+    <item name='android.util.Log'>
+        <annotation name='java.lang.Deprecated' />
+    </item>
+</root>
